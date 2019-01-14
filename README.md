@@ -1,1 +1,1 @@
-# zuul_exporter
+# nodepool_exporter
